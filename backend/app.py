@@ -1,0 +1,1 @@
+# Rotas para cadastro, login e painel
